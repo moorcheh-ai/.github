@@ -12,7 +12,6 @@ Moorcheh.ai delivers ultra-fast, highly accurate semantic search powered by cutt
 - **Superior Accuracy**: Outperforms traditional vector databases in semantic understanding and relevance
 
 ### Enterprise-Ready Features
-- **Lightning Fast**: Sub-100ms search responses across millions of documents
 - **Scalable Architecture**: Handle enterprise workloads with confidence
 - **Multi-Modal Support**: Text and vector embeddings in unified namespaces
 - **Production Monitoring**: Built-in analytics and performance metrics
