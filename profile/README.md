@@ -55,35 +55,14 @@
  
  ### Use Cases
  
- - **[Analyzing Codebases with Firecrawl and LlamaIndex](https://github.com/moorcheh-ai/moorcheh-examples/tree/main/AnalyzingCodebases_WithFirecrawlAndLlamaIndex)**
+ <p align="center">
+   <a href="https://github.com/moorcheh-ai/moorcheh-examples/tree/main/AnalyzingCodebases_WithFirecrawlAndLlamaIndex">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=moorcheh-ai&repo=moorcheh-examples&theme=dark" alt="Analyzing Codebases with Firecrawl and LlamaIndex"/>
+   </a>
+ </p>
  
  ---
  
  ### Quick Start Example
  
- ```python
- import os
- from moorcheh_sdk import MoorchehClient
- 
- # Initialize client
- client = MoorchehClient(api_key=os.getenv("MOORCHEH_API_KEY"))
- 
- # Create namespace and upload documents
- client.create_namespace("my-rag", "text")
- client.upload_documents("my-rag", [
-     {"id": "doc1", "text": "Your content...", "metadata": {}}
- ])
- 
- # Get AI-powered answers
- answer = client.get_generative_answer(
-     namespace="my-rag",
-     query="Your question here"
- )
- print(answer["answer"])
  ```
- 
- ---
- 
- **Transform your search. Elevate your AI. Choose Moorcheh.ai.**
- 
- *Built for developers, trusted by enterprises.*
