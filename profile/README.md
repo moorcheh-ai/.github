@@ -181,28 +181,29 @@
  
    **🛠️ Complete toolkit for Python developers:**
   
-  - **🗂️ Namespace management (text/vector)**
-  - **📄 Document and vector ingestion**
-  - **🔍 Advanced semantic search with filtering**
-  - **🤖 Built-in RAG system support**
-  - **🧠 Generative AI integration**
-  - **✅ Comprehensive error handling**
+  - **Namespace management (text/vector)**
+  - **Document and vector ingestion**
+  - **Advanced semantic search with filtering**
+  - **Built-in RAG system support**
+  - **Generative AI integration**
+  - **Comprehensive error handling**
   
   ---
-  
-     ## 🚀 Why Moorcheh.ai?
    
-   Moorcheh.ai delivers ultra-fast, highly accurate semantic search powered by cutting-edge information theory principles. Our enterprise platform enables developers to build production-ready RAG systems and AI chatbots with unprecedented search accuracy and performance.
+## Why Moorcheh.ai?
+   
+   <p>Moorcheh.ai delivers ultra-fast, highly accurate semantic search powered by cutting-edge information theory principles. Our enterprise platform enables developers to build production-ready RAG systems and AI chatbots with unprecedented search accuracy and performance.
+   </p>
   
   ### 🧮 Information-Theoretical Foundation
-  - **🎯 ITS (Information-Theoretical Similarity) Scoring**: Our proprietary algorithm goes beyond traditional cosine similarity, providing more nuanced and contextually aware search results
-  - **📐 Mathematical Precision**: Built on solid information theory foundations for consistent, explainable results
-  - **🏆 Superior Accuracy**: Outperforms traditional vector databases in semantic understanding and relevance
+  - **ITS (Information-Theoretical Similarity) Scoring**: Our proprietary algorithm goes beyond traditional cosine similarity, providing more nuanced and contextually aware search results
+  - **Mathematical Precision**: Built on solid information theory foundations for consistent, explainable results
+  - **Superior Accuracy**: Outperforms traditional vector databases in semantic understanding and relevance
   
   ### 🏢 Enterprise-Ready Features
-  - **📈 Scalable Architecture**: Handle enterprise workloads with confidence
-  - **🔄 Multi-Modal Support**: Text and vector embeddings in unified namespaces
-  - **📊 Production Monitoring**: Built-in analytics and performance metrics
+  - **Scalable Architecture**: Handle enterprise workloads with confidence
+  - **Multi-Modal Support**: Text and vector embeddings in unified namespaces
+  - **Production Monitoring**: Built-in analytics and performance metrics
   
   ---
   
