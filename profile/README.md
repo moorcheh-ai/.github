@@ -9,19 +9,20 @@
    ## 📊 Download Statistics
   
   <p align="center">
-    <strong>🐍 Python SDK</strong><br />
+    <strong>🐍 Python SDK</strong>
     <a href="https://pepy.tech/project/moorcheh-sdk">
       <img src="https://static.pepy.tech/personalized-badge/moorcheh-sdk?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads" alt="SDK Downloads"/>
     </a>
-    <strong>💬 Chat Boilerplate</strong><br />
+    <strong>💬 Chat Boilerplate</strong>
     <a href="https://www.npmjs.com/package/moorcheh-chat-boilerplate">
       <img src="https://img.shields.io/npm/dt/moorcheh-chat-boilerplate?style=flat-square" alt="Chat Boilerplate Downloads"/>
     </a>
-    <strong>⚡ N8N Nodes</strong><br />
+    <strong>⚡ N8N Nodes</strong>
     <a href="https://www.npmjs.com/package/n8n-nodes-moorcheh">
       <img src="https://img.shields.io/npm/dt/n8n-nodes-moorcheh?style=flat-square" alt="N8N Nodes Downloads"/>
     </a>
   </p>
+  
  
    ## 🌐 Connect With Us
   
