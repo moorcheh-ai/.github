@@ -1,6 +1,6 @@
 # Moorcheh - Revolutionary Information-Theoretical Search Engine for Enterprise AI Applications
 
-<div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; margin: 20px 0; text-align: center;">
+<div style="background: #ffffff; padding: 20px; border-radius: 15px; margin: 20px 0; text-align: center;">
 
 ![Moorcheh.ai Knowledge Graph Formation](https://github.com/user-attachments/assets/b59e780a-dd7a-4cb2-bf87-653149581e83)
 
