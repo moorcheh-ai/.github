@@ -2,7 +2,9 @@
 
 <div style="background: #ffffff; padding: 50px; border-radius: 25px; margin: 50px 0; text-align: center;">
 
-![Moorcheh.ai Knowledge Graph Formation](https://github.com/user-attachments/assets/8b953413-cd08-4158-b765-d745aa95135c)
+
+https://github.com/user-attachments/assets/f6b23528-2274-47dc-b8d4-bc202a746a6d
+
 
 </div>
  
