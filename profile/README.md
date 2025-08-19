@@ -6,6 +6,11 @@
 
 </div>
  
+<div style="background: #ffffff; padding: 20px; border-radius: 15px; text-align: center;">
+  <img src="https://github.com/user-attachments/assets/b59e780a-dd7a-4cb2-bf87-653149581e83" style="background: #ffffff; border-radius: 10px; padding: 10px;">
+</div>
+
+
    ## 📊 Download Statistics
   
   <p align="center">
