@@ -29,14 +29,20 @@ https://github.com/user-attachments/assets/f6b23528-2274-47dc-b8d4-bc202a746a6d
  
    ## 🌐 Connect With Us
   
-  <p align="center">
-    <a href="https://www.linkedin.com/company/moorcheh-ai">
-      <img src="https://img.shields.io/badge/Follow_us_on_LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Follow us on LinkedIn"/>
-    </a>
-    <a href="https://x.com/moorcheh_ai">
-      <img src="https://img.shields.io/badge/Follow_us_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow us on X"/>
-    </a>
-  </p>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; margin-top: 16px; margin-bottom: 16px;">
+  <a href="https://www.linkedin.com/company/moorcheh-ai" style="margin: 8px;">
+    <img src="https://img.shields.io/badge/Follow_us_on_LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Follow us on LinkedIn"/>
+  </a>
+  <a href="https://x.com/moorcheh_ai" style="margin: 8px;">
+    <img src="https://img.shields.io/badge/Follow_us_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow us on X"/>
+  </a>
+  <a href="https://www.youtube.com/@moorchehai" style="margin: 8px;">
+    <img src="https://img.shields.io/badge/Subscribe_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube"/>
+  </a>
+  <a href="https://www.moorcheh.ai/" style="margin: 8px;">
+    <img src="https://img.shields.io/badge/Visit_our_Website-45B7D1?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Visit our Website"/>
+  </a>
+</div>
  
  <p align="center">
    <picture>
