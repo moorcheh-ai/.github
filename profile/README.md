@@ -1,4 +1,4 @@
-# Moorcheh - Revolutionary Information-Theoretical Search Engine for AI Agents/Apps/Assistants
+# Moorcheh - Information-Theoretical Search Engine for AI Agents/Apps/Assistants
 
 <div style="background: #ffffff; padding: 50px; border-radius: 25px; margin: 50px 0; text-align: center;">
 
