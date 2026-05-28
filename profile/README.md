@@ -1,10 +1,20 @@
 <div align="center">
 
-<img width="280px" alt="Moorcheh Logo" src="https://raw.githubusercontent.com/moorcheh-ai/moorcheh-boilerplate/main/template/public/moorcheh-logo-light.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moorcheh-ai/moorcheh-boilerplate/main/template/public/moorcheh-logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moorcheh-ai/moorcheh-boilerplate/main/template/public/moorcheh-logo-light.svg">
+  <img width="280px" alt="Moorcheh Logo" src="https://raw.githubusercontent.com/moorcheh-ai/moorcheh-boilerplate/main/template/public/moorcheh-logo-light.svg">
+</picture>
 
 # The World's First Information-Theoretic Search Engine
 
 **Ultra-fast, deterministic, index-free semantic search — and the full AI infrastructure stack that grew around it.**
+
+<p>
+  <a href="https://github.com/moorcheh-ai/memanto/stargazers">
+    <img src="https://img.shields.io/github/stars/moorcheh-ai/memanto?style=for-the-badge&logo=github&label=Memanto%20Stars&color=yellow" alt="Memanto Stars"/>
+  </a>
+</p>
 
 <p>
   <a href="https://www.linkedin.com/company/moorcheh-ai">
@@ -93,7 +103,19 @@ A complete studio for testing, building, and deploying AI applications and chatb
 ### 🐜 Memanto — Memory that AI Agents Love
 A **companion memory agent** that pairs with any working agent to manage memories across sessions, tools, and time. Fully open source and community-driven, it inherits Moorcheh's deterministic retrieval — eliminating the behavioral drift that ANN-based memory introduces into multi-turn agents. Continually gaining traction with AI developers and agent builders.
 
-📄 **Memanto White Paper:** [arxiv.org/abs/2604.22085](https://arxiv.org/abs/2604.22085v1) · 🌐 [memanto.ai](https://memanto.ai) · 📰 [Memanto Blog](https://memanto.ai/blog)
+<p>
+  <a href="https://github.com/moorcheh-ai/memanto">
+    <img src="https://img.shields.io/badge/⭐_Star_on_GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Memanto on GitHub"/>
+  </a>
+  <a href="https://github.com/moorcheh-ai/memanto/stargazers">
+    <img src="https://img.shields.io/github/stars/moorcheh-ai/memanto?style=flat-square&logo=github&label=Stars&color=yellow" alt="Memanto Stars"/>
+  </a>
+  <a href="https://pepy.tech/projects/memanto">
+    <img src="https://static.pepy.tech/personalized-badge/memanto?period=total&units=international_system&left_color=grey&right_color=blue&left_text=PyPI%20Downloads" alt="Memanto PyPI Downloads"/>
+  </a>
+</p>
+
+📄 **Memanto White Paper:** [arxiv.org/abs/2604.22085](https://arxiv.org/abs/2604.22085v1) · 🌐 [memanto.ai](https://memanto.ai) · 📰 [Memanto Blog](https://memanto.ai/blog) · 📈 [Download stats](https://pepy.tech/projects/memanto?timeRange=threeMonths&category=version&granularity=weekly)
 
 ### 🦅 MemantoClaw
 Born from the need for higher accuracy and functionality in OpenClaw / NeMo Claw architectures. Runs **entirely through the Moorcheh API ecosystem and a single API key** — no external connectors required. The only known method of running and deploying OpenClaw bots **fully contained within an air-gapped infrastructure.**
@@ -163,17 +185,17 @@ print(answer["answer"])
 
 ## 📚 Featured Repositories
 
-| Repo | Description |
-|---|---|
-| [**memanto**](https://github.com/moorcheh-ai/memanto) | 🐜 Memory that AI Agents Love — the companion memory agent |
-| [**moorcheh-python-sdk**](https://github.com/moorcheh-ai/moorcheh-python-sdk) | 🐍 Official Python SDK for the Moorcheh Semantic Search API |
-| [**moorcheh-chat-boilerplate**](https://github.com/moorcheh-ai/moorcheh-chat-boilerplate) | 💬 Production-ready Next.js chat app powered by ITS search + RAG |
-| [**moorcheh-mcp**](https://github.com/moorcheh-ai/moorcheh-mcp) | 🔌 MCP server bringing Moorcheh search & RAG to MCP clients |
-| [**memantoclaw**](https://github.com/moorcheh-ai/memantoclaw) | 🦅 Air-gapped OpenClaw deployment via the Moorcheh API |
-| [**langchain-moorcheh**](https://github.com/moorcheh-ai/langchain-moorcheh) | 🦜 Seamless LangChain ↔ Moorcheh integration |
-| [**n8n-nodes-moorcheh**](https://github.com/moorcheh-ai/n8n-nodes-moorcheh) | ⚡ n8n nodes for ingestion, semantic search & AI workflows |
-| [**moorcheh-examples**](https://github.com/moorcheh-ai/moorcheh-examples) | 📓 Practical sample projects and integration recipes |
-| [**moorcheh-benchmarks**](https://github.com/moorcheh-ai/moorcheh-benchmarks) | 📊 Benchmarks, experiments, and use cases |
+| Repo | ⭐ Stars | Description |
+|---|---|---|
+| [**memanto**](https://github.com/moorcheh-ai/memanto) | ![](https://img.shields.io/github/stars/moorcheh-ai/memanto?style=flat-square&label=&color=yellow) | 🐜 Memory that AI Agents Love — the companion memory agent |
+| [**moorcheh-python-sdk**](https://github.com/moorcheh-ai/moorcheh-python-sdk) | ![](https://img.shields.io/github/stars/moorcheh-ai/moorcheh-python-sdk?style=flat-square&label=&color=yellow) | 🐍 Official Python SDK for the Moorcheh Semantic Search API |
+| [**moorcheh-chat-boilerplate**](https://github.com/moorcheh-ai/moorcheh-chat-boilerplate) | ![](https://img.shields.io/github/stars/moorcheh-ai/moorcheh-chat-boilerplate?style=flat-square&label=&color=yellow) | 💬 Production-ready Next.js chat app powered by ITS search + RAG |
+| [**moorcheh-mcp**](https://github.com/moorcheh-ai/moorcheh-mcp) | ![](https://img.shields.io/github/stars/moorcheh-ai/moorcheh-mcp?style=flat-square&label=&color=yellow) | 🔌 MCP server bringing Moorcheh search & RAG to MCP clients |
+| [**memantoclaw**](https://github.com/moorcheh-ai/memantoclaw) | ![](https://img.shields.io/github/stars/moorcheh-ai/memantoclaw?style=flat-square&label=&color=yellow) | 🦅 Air-gapped OpenClaw deployment via the Moorcheh API |
+| [**langchain-moorcheh**](https://github.com/moorcheh-ai/langchain-moorcheh) | ![](https://img.shields.io/github/stars/moorcheh-ai/langchain-moorcheh?style=flat-square&label=&color=yellow) | 🦜 Seamless LangChain ↔ Moorcheh integration |
+| [**n8n-nodes-moorcheh**](https://github.com/moorcheh-ai/n8n-nodes-moorcheh) | ![](https://img.shields.io/github/stars/moorcheh-ai/n8n-nodes-moorcheh?style=flat-square&label=&color=yellow) | ⚡ n8n nodes for ingestion, semantic search & AI workflows |
+| [**moorcheh-examples**](https://github.com/moorcheh-ai/moorcheh-examples) | ![](https://img.shields.io/github/stars/moorcheh-ai/moorcheh-examples?style=flat-square&label=&color=yellow) | 📓 Practical sample projects and integration recipes |
+| [**moorcheh-benchmarks**](https://github.com/moorcheh-ai/moorcheh-benchmarks) | ![](https://img.shields.io/github/stars/moorcheh-ai/moorcheh-benchmarks?style=flat-square&label=&color=yellow) | 📊 Benchmarks, experiments, and use cases |
 
 ➡️ **[Browse all repositories →](https://github.com/orgs/moorcheh-ai/repositories)**
 
